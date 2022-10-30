@@ -1,3 +1,3 @@
 # Sentiment-analysis
 
-Sentiment analysis project 
+Sentiment analysis project using Flair
